@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090941769158",
+    "project_id": "whatapp-backend-1ae89",
+    "storage_bucket": "whatapp-backend-1ae89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090941769158:android:ef41f17c3b0751de0e8ec7",
+        "android_client_info": {
+          "package_name": "com.example.whatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJy7w5wyELg25dAZsnMLFMhRWkFHZlyUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
